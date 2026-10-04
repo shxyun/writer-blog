@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-10-04.md",
+                "file": "posts/2026-10-04.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,14 +182,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84c845449a0e980f",
+  "active": "d836e65df160583a",
   "lastOpenFiles": [
     "posts/hello.md",
     "posts/测试.md",
-    "2026-10-04.md",
+    "posts/2026-10-04.md",
     "未命名.md",
     "posts/first-post.md"
   ]
