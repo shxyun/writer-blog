@@ -1,0 +1,35 @@
+baseURL = "https://writer.shenlijun.cn/"
+locale = "zh-cn"
+title = "沈立军的写作空间"
+theme = "DoIt"
+paginate = 10
+enableRobotsTXT = true
+[params]
+  description = "边记边发，写作即发布"
+  defaultTheme = "auto"
+  [params.author]
+    name = "沈立军"
+    link = ""
+  [params.page]
+    showWordCount = true
+    showReadingTime = true
+    showToc = true
+    tocOpen = false
+  [params.header]
+    desktopMode = "fixed"
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 20
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
