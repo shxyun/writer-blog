@@ -2,7 +2,8 @@ baseURL = "https://writer.shenlijun.cn/"
 locale = "zh-cn"
 title = "沈立军的写作空间"
 theme = "DoIt"
-paginate = 10
+[pagination]
+  pagerSize = 10
 enableRobotsTXT = true
 [params]
   description = "边记边发，写作即发布"
