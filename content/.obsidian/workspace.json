@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "en/posts/welcome.md",
+                "file": "zh/posts/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "welcome"
+              "title": "未命名"
             }
           }
         ]
@@ -188,15 +188,16 @@
   },
   "active": "84c845449a0e980f",
   "lastOpenFiles": [
-    "posts/first-post.md",
-    "posts/netdisk-demo.md",
-    "en/posts/welcome.md",
+    "zh/posts/first-post.md",
     "zh/posts/welcome.md",
+    "zh/posts/hello.md",
+    "zh/posts/netdisk-demo.md",
+    "zh/posts/未命名.md",
+    "en/posts/welcome.md",
     "en/posts",
     "en",
     "zh/posts",
     "zh",
-    "posts/未命名.md",
     "posts/2026-10-04.md",
     "_templates/_index.md",
     "_templates/writer-post-template.md",
@@ -204,7 +205,6 @@
     "templates/_index.md",
     "templates/writer-post-template.md",
     "templates",
-    "zh/posts/hello.md",
     "posts/测试.md"
   ]
 }
