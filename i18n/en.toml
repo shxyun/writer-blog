@@ -1,0 +1,56 @@
+[home]
+other = "Home"
+
+[posts]
+other = "Posts"
+
+[tags]
+other = "Tags"
+
+[about]
+other = "About"
+
+[read_more]
+other = "Read more"
+
+[reading_time]
+other = "%d min read"
+
+[words]
+other = "words"
+
+[page_not_found]
+other = "Page Not Found"
+
+[back_to_home]
+other = "Back to Home"
+
+[older_posts]
+other = "Older Posts"
+
+[newer_posts]
+other = "Newer Posts"
+
+[previous]
+other = "Previous"
+
+[next]
+other = "Next"
+
+[table_of_contents]
+other = "Table of Contents"
+
+[categories]
+other = "Categories"
+
+[share]
+other = "Share"
+
+[copyright]
+other = "Copyright"
+
+[author]
+other = "Author"
+
+[publish_date]
+other = "Publish Date"
