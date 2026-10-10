@@ -16,7 +16,7 @@ enableRobotsTXT = true
     title = "Shen Lijun's Writing Space"
     weight = 1
     [languages.en.params]
-      description = "Write and publish, writing is publishing"
+      description = "Novel recommendations and reviews from web fiction platforms"
       [languages.en.params.author]
         name = "Shen Lijun"
         link = ""
@@ -49,7 +49,7 @@ enableRobotsTXT = true
     title = "深励君的写作空间"
     weight = 2
     [languages.zh.params]
-      description = "边记边发，写作即发布"
+      description = "网文小说推荐与书评"
       [languages.zh.params.author]
         name = "深励君"
         link = ""
