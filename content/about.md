@@ -14,6 +14,10 @@ This site is dedicated to sharing and recommending novels from platforms like No
 - **Curated picks** — Reading lists organized by genre and theme
 - **Writing tips** — Techniques and insights for aspiring web fiction writers
 
+## Newsletter
+
+{{< subscribe >}}
+
 ## Contact
 
 - Email: writer@shenlijun.cn
