@@ -79,6 +79,10 @@ enableRobotsTXT = true
 [params]
   defaultTheme = "auto"
 
+[params.social]
+  email = "mailto:writer@shenlijun.cn"
+  github = "https://github.com/shxyun"
+
 [markup]
   [markup.highlight]
     noClasses = false
