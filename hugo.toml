@@ -83,6 +83,9 @@ enableRobotsTXT = true
   email = "mailto:writer@shenlijun.cn"
   github = "https://github.com/shxyun"
 
+[params.page]
+  editURL = "https://github.com/shxyun/writer-blog/edit/main/content/"
+
 [markup]
   [markup.highlight]
     noClasses = false
