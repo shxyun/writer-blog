@@ -1,9 +1,9 @@
 {{ $author := .Get "author" }}
 {{ $source := .Get "source" }}
 <blockquote class="quote-block">
-  {{ .Inner }}
+  {{ .Inner | .Page.RenderString }}
   {{ with $author }}
-  <footer>&mdash; {{ . }}{{ with $source }}，<cite>{{ . }}</cite>{{ end }}</footer>
+  <footer>&mdash; {{ . }}{{ with $source }}, <cite>{{ . }}</cite>{{ end }}</footer>
   {{ end }}
 </blockquote>
 <style>

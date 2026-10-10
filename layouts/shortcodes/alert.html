@@ -1,11 +1,11 @@
 {{ $type := .Get "type" | default "info" }}
 {{ $title := .Get "title" }}
-{{ $icon := cond (eq $type "warning") "\u26A0" (cond (eq $type "error") "\u2715" (cond (eq $type "success") "\u2713" "i")) }}
+{{ $icon := cond (eq $type "warning") "⚠" (cond (eq $type "error") "✕" (cond (eq $type "success") "✓" "i")) }}
 <div class="alert-box alert-{{ $type }}">
   <span class="alert-ic">{{ $icon }}</span>
   <div class="alert-body">
     {{ with $title }}<strong class="alert-title">{{ . }}</strong>{{ end }}
-    <div class="alert-text">{{ .Inner }}</div>
+    <div class="alert-text">{{ .Inner | .Page.RenderString }}</div>
   </div>
 </div>
 <style>
