@@ -85,6 +85,23 @@ enableRobotsTXT = true
 
 [params.page]
   editURL = "https://github.com/shxyun/writer-blog/edit/main/content/"
+  [params.page.comment]
+    enable = true
+    [params.page.comment.giscus]
+      enable = true
+      repo = "shxyun/writer-blog"
+      repoId = "R_kgDOU7IoSg"
+      category = "Announcements"
+      categoryId = "DIC_kwDOU7IoSs4DHeYg"
+      lightTheme = "light"
+      darkTheme = "dark"
+      reactionsEnabled = 1
+      emitMetadata = 0
+      inputPosition = "bottom"
+      lang = "en"
+
+[languages.zh.params.page.comment.giscus]
+  lang = "zh-CN"
 
 [markup]
   [markup.highlight]
