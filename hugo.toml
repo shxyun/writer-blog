@@ -6,6 +6,10 @@ title = "Shen Lijun's Writing Space"
 theme = "DoIt"
 enableRobotsTXT = true
 
+[author]
+  name = "Shen Lijun"
+  email = "writer@shenlijun.cn"
+
 [pagination]
   pagerSize = 10
 
@@ -19,6 +23,8 @@ enableRobotsTXT = true
       description = "Novel recommendations and reviews from web fiction platforms"
       [languages.en.params.author]
         name = "Shen Lijun"
+        email = "writer@shenlijun.cn"
+        gravatarEmail = "writer@shenlijun.cn"
         link = ""
       [languages.en.params.page]
         showWordCount = true
@@ -52,6 +58,8 @@ enableRobotsTXT = true
       description = "网文小说推荐与书评"
       [languages.zh.params.author]
         name = "深励君"
+        email = "writer@shenlijun.cn"
+        gravatarEmail = "writer@shenlijun.cn"
         link = ""
       [languages.zh.params.page]
         showWordCount = true
