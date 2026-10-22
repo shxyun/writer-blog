@@ -7,6 +7,7 @@ tags: ["Urban", "Revenge", "Sci-Fi"]
 categories: ["Mr. Octopus Gets Revenge"]
 toc: true
 weight: 1
+cover: "/images/chapters/mr-octopus-revenge-wide-en.webp"
 ---
 It was 10:47 p.m. when Zhang Yu'an sent the last of her money away.
 

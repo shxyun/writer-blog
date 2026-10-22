@@ -4,10 +4,12 @@ date: 2026-10-22T19:20:00+08:00
 draft: false
 description: "A data annotator is scammed out of everything by her boyfriend and her best friend. In an empty server room at 2 a.m., she wakes a dormant octopus AI — and starts taking it back."
 tags: ["Urban", "Revenge", "Sci-Fi"]
-categories: 
+categories:
 toc: true
+cover: "/images/books/mr-octopus-revenge-cover-en.webp"
+author: "shenlijun"
 ---
-{{< novel platform="Baidu Novel" cover="/images/mr-octopus-revenge-cover-en.png" title="Mr. Octopus Gets Revenge" author="AiPy Octopus Studio" status="Ongoing" chapters="3" genres="Urban, Revenge, Sci-Fi" desc="Eight tentacles. Eight heartbeats. One revenge that counts every human heart." link="../mr-octopus-revenge-chapter-1/" btn="Start Reading" >}}
+{{< novel platform="First published here" cover="/images/books/mr-octopus-revenge-cover-en.webp" title="Mr. Octopus Gets Revenge" author="shenlijun" status="Ongoing" chapters="3" genres="Urban, Revenge, Sci-Fi" desc="Eight tentacles. Eight heartbeats. One revenge that counts every human heart." link="../mr-octopus-revenge-chapter-1/" btn="Start Reading" >}}
 
 {{< quote >}}
 Eight tentacles. Eight heartbeats. One revenge that counts every human heart.
@@ -33,10 +35,14 @@ Freezing accounts, locking down evidence, hiring a lawyer — step by step she t
 
 | Item | Detail |
 | --- | --- |
-| Author | AiPy Octopus Studio |
+| Author | shenlijun |
 | Status | Ongoing |
 | Genres | Urban, Revenge, Sci-Fi |
-| Original platform | Baidu Novel |
+| Original platform | First published on this site |
 | Edition | Female lead |
 | Language | English (translated from Chinese) |
 | Chapters online | 1–3 |
+
+---
+
+> This site is run by the author. This is an original work and all rights are reserved by the author.

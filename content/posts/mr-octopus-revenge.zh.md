@@ -4,10 +4,12 @@ date: 2026-10-22T19:20:00+08:00
 draft: false
 description: "26 岁数据标注员张予安被男友和闺蜜做局，骗光积蓄、背上网贷。凌晨的废弃机房里，她唤醒了一只沉睡三年的机械章鱼，开始把自己被偷走的东西一件件拿回来。"
 tags: ["都市", "复仇", "科幻"]
-categories: 
+categories:
 toc: true
+cover: "/images/books/mr-octopus-revenge-cover-zh.webp"
+author: "深励君"
 ---
-{{< novel platform="百度小说" cover="/images/mr-octopus-revenge-cover-zh.png" title="章鱼先生替我复仇" author="AiPy 章鱼工作室" status="Ongoing" chapters="3" genres="都市, 复仇, 科幻" desc="八条触手，八次心动，一场算尽人心的复仇。" link="../mr-octopus-revenge-chapter-1/" btn="开始阅读" >}}
+{{< novel platform="本站首发" cover="/images/books/mr-octopus-revenge-cover-zh.webp" title="章鱼先生替我复仇" author="深励君" status="Ongoing" chapters="3" genres="都市, 复仇, 科幻" desc="八条触手，八次心动，一场算尽人心的复仇。" link="../mr-octopus-revenge-chapter-1/" btn="开始阅读" >}}
 
 {{< quote >}}
 八条触手，八次心动，一场算尽人心的复仇。
@@ -33,10 +35,14 @@ toc: true
 
 | 项目 | 内容 |
 | --- | --- |
-| 作者 | AiPy 章鱼工作室 |
+| 作者 | 深励君 |
 | 状态 | 连载中 |
 | 类型 | 都市 · 复仇 · 科幻 |
-| 首发平台 | 百度小说 · 独家连载 |
+| 首发平台 | 本站首发 · 原创 |
 | 版本 | 女版 |
 | 语言 | 中文（原稿） |
 | 已上线章节 | 第 001–003 章 |
+
+---
+
+> 本站由作者本人运营。本作品为原创，版权归作者所有，未经授权请勿转载。
