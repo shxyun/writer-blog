@@ -19,6 +19,7 @@ enableRobotsTXT = true
     languageName = "English"
     title = "Shen Lijun's Writing Space"
     weight = 1
+    contentDir = "content/en"
     [languages.en.params]
       description = "Novel recommendations and reviews from web fiction platforms"
       [languages.en.params.author]
