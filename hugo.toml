@@ -54,6 +54,7 @@ enableRobotsTXT = true
     languageName = "中文"
     title = "深励君的写作空间"
     weight = 2
+    contentDir = "content/zh"
     [languages.zh.params]
       description = "网文小说推荐与书评"
       [languages.zh.params.author]
