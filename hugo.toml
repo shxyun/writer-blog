@@ -89,6 +89,12 @@ enableRobotsTXT = true
 [params]
   defaultTheme = "auto"
 
+  # Cloudflare Web Analytics
+  [params.analytics]
+    enable = true
+    [params.analytics.cloudflare]
+      token = "5aadb9ed90674e1bba97de8426002435"
+
 [params.social]
   email = "mailto:writer@shenlijun.cn"
   github = "https://github.com/shxyun"
