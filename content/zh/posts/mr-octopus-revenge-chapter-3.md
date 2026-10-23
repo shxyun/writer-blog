@@ -7,7 +7,8 @@ tags: ["都市", "复仇", "科幻"]
 categories: ["章鱼先生替我复仇"]
 toc: true
 weight: 3
-cover: "/images/chapters/mr-octopus-revenge-wide-zh.webp"
+featuredImage: "/images/chapters/mr-octopus-revenge-wide-zh.webp"
+featuredImagePreview: "/images/chapters/mr-octopus-revenge-wide-zh.webp"
 ---
 天亮之前，张予安弄明白了八条触手是什么。
 

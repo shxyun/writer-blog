@@ -7,7 +7,8 @@ tags: ["都市", "复仇", "科幻"]
 categories: ["章鱼先生替我复仇"]
 toc: true
 weight: 1
-cover: "/images/chapters/mr-octopus-revenge-wide-zh.webp"
+featuredImage: "/images/chapters/mr-octopus-revenge-wide-zh.webp"
+featuredImagePreview: "/images/chapters/mr-octopus-revenge-wide-zh.webp"
 ---
 张予安把最后一笔钱转出去的时候，是晚上十点四十七分。
 

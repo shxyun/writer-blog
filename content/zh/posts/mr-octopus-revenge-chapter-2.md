@@ -7,7 +7,8 @@ tags: ["都市", "复仇", "科幻"]
 categories: ["章鱼先生替我复仇"]
 toc: true
 weight: 2
-cover: "/images/chapters/mr-octopus-revenge-wide-zh.webp"
+featuredImage: "/images/chapters/mr-octopus-revenge-wide-zh.webp"
+featuredImagePreview: "/images/chapters/mr-octopus-revenge-wide-zh.webp"
 ---
 后来张予安无数次回想，那天晚上她为什么走了进去。
 

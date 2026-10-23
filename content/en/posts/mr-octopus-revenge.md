@@ -6,7 +6,8 @@ description: "A data annotator is scammed out of everything by her boyfriend and
 tags: ["Urban", "Revenge", "Sci-Fi"]
 categories:
 toc: true
-cover: "/images/books/mr-octopus-revenge-cover-en.webp"
+featuredImage: "/images/books/mr-octopus-revenge-cover-en.webp"
+featuredImagePreview: "/images/books/mr-octopus-revenge-cover-en.webp"
 author: "shenlijun"
 ---
 {{< novel platform="First published here" cover="/images/books/mr-octopus-revenge-cover-en.webp" title="Mr. Octopus Gets Revenge" author="shenlijun" status="Ongoing" chapters="3" genres="Urban, Revenge, Sci-Fi" desc="Eight tentacles. Eight heartbeats. One revenge that counts every human heart." link="../mr-octopus-revenge-chapter-1/" btn="Start Reading" >}}

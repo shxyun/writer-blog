@@ -7,7 +7,8 @@ tags: ["Urban", "Revenge", "Sci-Fi"]
 categories: ["Mr. Octopus Gets Revenge"]
 toc: true
 weight: 2
-cover: "/images/chapters/mr-octopus-revenge-wide-en.webp"
+featuredImage: "/images/chapters/mr-octopus-revenge-wide-en.webp"
+featuredImagePreview: "/images/chapters/mr-octopus-revenge-wide-en.webp"
 ---
 Later, Zhang Yu'an would replay that night a thousand times, asking herself why she went in.
 

@@ -7,7 +7,8 @@ tags: ["Urban", "Revenge", "Sci-Fi"]
 categories: ["Mr. Octopus Gets Revenge"]
 toc: true
 weight: 3
-cover: "/images/chapters/mr-octopus-revenge-wide-en.webp"
+featuredImage: "/images/chapters/mr-octopus-revenge-wide-en.webp"
+featuredImagePreview: "/images/chapters/mr-octopus-revenge-wide-en.webp"
 ---
 Before dawn, Zhang Yu'an learned what the eight tentacles were.
 

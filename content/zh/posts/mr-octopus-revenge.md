@@ -6,7 +6,8 @@ description: "26 岁数据标注员张予安被男友和闺蜜做局，骗光积
 tags: ["都市", "复仇", "科幻"]
 categories:
 toc: true
-cover: "/images/books/mr-octopus-revenge-cover-zh.webp"
+featuredImage: "/images/books/mr-octopus-revenge-cover-zh.webp"
+featuredImagePreview: "/images/books/mr-octopus-revenge-cover-zh.webp"
 author: "深励君"
 ---
 {{< novel platform="本站首发" cover="/images/books/mr-octopus-revenge-cover-zh.webp" title="章鱼先生替我复仇" author="深励君" status="Ongoing" chapters="3" genres="都市, 复仇, 科幻" desc="八条触手，八次心动，一场算尽人心的复仇。" link="../mr-octopus-revenge-chapter-1/" btn="开始阅读" >}}
